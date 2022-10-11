@@ -1,0 +1,8 @@
+C:\Users\Ventura\source\repos\Laboratorio08\Laboratorio08\bin\Debug\Laboratorio08.exe.config
+C:\Users\Ventura\source\repos\Laboratorio08\Laboratorio08\bin\Debug\Laboratorio08.exe
+C:\Users\Ventura\source\repos\Laboratorio08\Laboratorio08\bin\Debug\Laboratorio08.pdb
+C:\Users\Ventura\source\repos\Laboratorio08\Laboratorio08\obj\Debug\Laboratorio08.csproj.AssemblyReference.cache
+C:\Users\Ventura\source\repos\Laboratorio08\Laboratorio08\obj\Debug\Laboratorio08.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ventura\source\repos\Laboratorio08\Laboratorio08\obj\Debug\Laboratorio08.csproj.CoreCompileInputs.cache
+C:\Users\Ventura\source\repos\Laboratorio08\Laboratorio08\obj\Debug\Laboratorio08.exe
+C:\Users\Ventura\source\repos\Laboratorio08\Laboratorio08\obj\Debug\Laboratorio08.pdb
